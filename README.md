@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jhonatan223jv/jhonatan223jv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi 👋, I'm Jhonatan</h1>
 
-Here are some ideas to get you started:
+<p>
+  <strong>Software Developer</strong><br>
+  Student • Builder • Learner
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p><strong>Languages</strong></p>
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,kotlin,python" />
+
+<br><br>
+
+<p><strong>Frontend Development</strong></p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap" />
+
+<br><br>
+
+<p><strong>Backend & Databases</strong></p>
+
+<img src="https://skillicons.dev/icons?i=spring,postgres,mysql,mongodb" />
+
+<br><br>
+
+<p><strong>Tools</strong></p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" />
+
+</div>
